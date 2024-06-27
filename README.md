@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning **Python, C, C++, Java, JavaScript, HTML, CSS**
 - 🎓 I'm an Undergraduate at **SLIIT**
 - 💬 Ask me about **Python, C, C++, Java, JavaScript, HTML, CSS**
-- 📫 How to reach me **nethmiherath100@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/nethmith** && **nethmiherath100@gmail.com**
 - ⚡ Fun fact **Call me as Nethmi_th**
 
 <h3 align="center">Connect with me:</h3>
