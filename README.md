@@ -1,7 +1,5 @@
 # Nethmi Herath
 
-<img align="right" width="200" src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Nethmi Herath">
-
 Hi there! 👋 I'm Nethmi, a passionate frontend developer and an undergraduate at SLIIT in Sri Lanka, pursuing my degree in IT.
 
 ## About Me
