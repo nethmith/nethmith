@@ -1,4 +1,3 @@
-
 # Nethmi Herath
 
 Hi there! 👋 I'm Nethmi, a passionate Frontend Developer and an undergraduate at SLIIT in Sri Lanka, pursuing my IT degree.
@@ -17,7 +16,11 @@ Hi there! 👋 I'm Nethmi, a passionate Frontend Developer and an undergraduate 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
+
 
 ## GitHub Stats
 [![Nethmi Herath's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethmith&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
