@@ -1,47 +1,84 @@
-<!-- You can copy-paste this into your README.md -->
-
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/explore-future-today-with-ai_1421494-618.jpg" alt="Tech banner with vibrant gradient and futuristic elements" width="800"/>
-  <!-- Optional: replace with a more personal one, e.g., code + beach/coffee vibe if you generate/find one -->
-  <br><br>
-  <h1>Hi there! 👋 I'm Nethmi Herath</h1>
-  <h3>Frontend Developer | Turning ideas into beautiful, responsive UIs ⚛️✨</h3>
+  <img src="https://picsum.photos/id/1015/1200/400" alt="Modern tech banner" width="900"/>
+  <!-- Replace the link above with your own banner (Canva / Freepik) — something clean with React/Next.js + Ceylon tea vibes works great -->
+
+  <h1>Hi, I'm Nethmi Herath 👋</h1>
+  <h3>Trainee Software Engineer | React & Next.js Enthusiast | Full-Stack Builder</h3>
+
+  <p>
+    Currently building enterprise web apps at <strong>OLAK Technologies</strong> while pursuing my BSc (Hons) in IT (Software Engineering) at SLIIT.<br>
+    I turn “What’s for dinner?” into smart AI apps, debug React hooks before breakfast, and believe dark mode + Ceylon tea is the perfect combo ☕🌴
+  </p>
+
+  <a href="mailto:nethmiherath100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nethmith"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/nethmith"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
 
-I'm a final-year IT undergrad at **SLIIT** (Sri Lanka), where I'm passionate about crafting pixel-perfect experiences with modern web tech. By day, I'm debugging React hooks and optimizing Tailwind classes; by evening, you'll probably find me sipping tea on the Negombo coast dreaming up the next side project ☕🌴.
-
-When I'm not coding, I'm:
-- Exploring new frontend trends (Next.js 14+ anyone?)
-- Building random fun apps just because
-- Convincing myself that dark mode is superior 😏
-
-Let's create something awesome together!
-
----
-
-### 🔭 What I'm Working On
-- Sharpening my **React** & **Next.js** skills through real-world projects
-- Experimenting with **Tailwind CSS** + **Framer Motion** for smooth animations
-- Open to **frontend collaborations** — especially UI/UX-focused web apps!
-
-### 🌱 Currently Learning & Loving
-- Advanced React patterns & state management
-- TypeScript (getting there!)
-- Performance optimization & accessibility
-
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack I Actually Use Daily
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <!-- Keep/add your others as needed -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
+
+### 💼 Professional Experience
+**Trainee Software Engineer** @ **OLAK Technologies**  
+Dec 2024 – Present  
+- Building enterprise React + TypeScript web applications with clean, reusable component architecture  
+- Implemented full CRUD flows and fixed critical UI stability issues  
+- Working in agile environment (Git, code reviews, CI/CD)
+
+### 🔥 Featured Projects
+**CRUMBS** – AI-Powered Mobile App to Reduce Food Waste  
+Next.js • Node.js • Express • MongoDB • Gemini • Groq LLaVA • Whisper • QR Integration  
+Aug 2025 – Nov 2025  
+→ Smart ingredient scanner + voice input → instant recipe suggestions  
+→ Solves the real “What’s for dinner?” problem  
+[Live Demo] | [Source Code]
+
+**MCAR Web Application** – Enterprise Front-end  
+React • TypeScript • Tailwind CSS • Material UI  
+Apr 2025 – Dec 2025 (Ongoing)  
+[Source Code]
+
+**E-Guru Ticketing System** – Full-Stack  
+Next.js • Node.js • Express • MongoDB • QR Integration  
+Feb 2025 – May 2025  
+[Source Code]
+
+**Personal Finance Tracker** – Native Android App  
+Kotlin • Android Studio • Figma • Charts  
+Feb 2025 – May 2025  
+[Source Code]
+
+**Hotel Management System** – Full-Stack (Team Project)  
+Java • MySQL • MVC • JSP/Servlet  
+Jul 2024 – Nov 2024  
+[Source Code]
+
+### 🎓 Education
+**BSc (Hons) in Information Technology**  
+Specializing in Software Engineering  
+SLIIT – Sri Lanka Institute of Information Technology  
+2023 – 2026 (expected)
+
+### 📜 Certifications
+- MongoDB Data Modeling Path  
+- JavaScript Essentials 01  
+- Python for Beginners – University of Moratuwa (DP Education)  
+- Web Design for Beginners – University of Moratuwa (DP Education)  
+- C & C++ Programming – SoloLearn
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -50,20 +87,9 @@ Let's create something awesome together!
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nethmith&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### 🌟 Featured Projects
-(Quick wins: add 2-3 of your best ones here with small screenshots/GIFs + live links)
+---
 
-- **[Project Name]** — A responsive [description] built with React + Tailwind. [Live Demo] | [Repo]
-- **[Another One]** — Fun [thing] using Next.js. [Live] | [Repo]
+Thanks for visiting! Whether you need a React component, a full-stack feature, or just want to chat about the next big idea — I’m always up for it.  
+Drop me a message → nethmiherath100@gmail.com  
 
-(Pro tip: Use tools like Carbon.now.sh for code snippets as images, or record short Loom GIFs of your apps in action.)
-
-### 📫 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/nethmith"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/nethmi_.th"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:nethmiherath100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- Add more if you have Twitter/X, portfolio site, etc. -->
-</p>
-
-Thanks for stopping by! 🚀 Feel free to say hi or fork/star any repo that sparks joy.
+Let’s build something great together! 🚀
