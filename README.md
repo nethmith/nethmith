@@ -39,32 +39,40 @@ Dec 2024 – Present
 - Working in agile environment (Git, code reviews, CI/CD)
 
 ### 🔥 Featured Projects
-**CRUMBS** – AI-Powered Mobile App to Reduce Food Waste  
-Next.js • Node.js • Express • MongoDB • Gemini • Groq LLaVA • Whisper • QR Integration  
-Aug 2025 – Nov 2025  
-→ Smart ingredient scanner + voice input → instant recipe suggestions  
-→ Solves the real “What’s for dinner?” problem  
-[Live Demo] | [Source Code]
 
-**MCAR Web Application** – Enterprise Front-end  
-React • TypeScript • Tailwind CSS • Material UI  
-Apr 2025 – Dec 2025 (Ongoing)  
-[Source Code]
+Here are some of my favorite builds — from AI-powered mobile apps to enterprise web solutions:
 
-**E-Guru Ticketing System** – Full-Stack  
-Next.js • Node.js • Express • MongoDB • QR Integration  
-Feb 2025 – May 2025  
-[Source Code]
+**CRUMBS** – AI-Powered Food Waste Reduction Mobile App  
+*Aug 2025 – Nov 2025*  
+Next.js · Node.js · Express · MongoDB · Gemini · Groq LLaVA · Whisper · QR Integration · React Native + Expo  
+→ Smart ingredient scanning + voice input → instant recipe suggestions  
+→ Solves the everyday "What’s for dinner?" problem with intuitive UX  
+[Live Demo (if available)] | [Source Code] | ![CRUMBS Screenshot](https://via.placeholder.com/600x300?text=CRUMBS+App+Screenshot)  
+
+**MCAR Web Application** – Enterprise Frontend (at OLAK Technologies)  
+*Apr 2025 – Dec 2025 (Ongoing)*  
+React · TypeScript · Tailwind CSS · Material UI  
+→ Built scalable, reusable component architecture  
+→ Full CRUD pages with responsive, clean UI  
+[Source Code] | ![MCAR Screenshot](https://via.placeholder.com/600x300?text=MCAR+Dashboard)  
+
+**E-Guru Ticketing System** – Full-Stack Event Platform  
+*Feb 2025 – May 2025*  
+Next.js · Node.js · Express · MongoDB · QR Integration  
+→ Complete ticketing flow with responsive design  
+[Source Code] | ![E-Guru Screenshot](https://via.placeholder.com/600x300?text=E-Guru+Ticketing)  
 
 **Personal Finance Tracker** – Native Android App  
-Kotlin • Android Studio • Figma • Charts  
-Feb 2025 – May 2025  
-[Source Code]
+*Feb 2025 – May 2025*  
+Kotlin · Android Studio · Figma · Charts  
+→ Secure auth + real-time tracking + CSV import/export  
+[Source Code] | ![Finance Tracker Screenshot](https://via.placeholder.com/600x300?text=Finance+Tracker+UI)  
 
 **Hotel Management System** – Full-Stack (Team Project)  
-Java • MySQL • MVC • JSP/Servlet  
-Jul 2024 – Nov 2024  
-[Source Code]
+*Jul 2024 – Nov 2024*  
+Java · MySQL · MVC · JSP/Servlet  
+→ Optimized relational DB + enterprise patterns in a 3-person team  
+[Source Code] | ![Hotel System Screenshot](https://via.placeholder.com/600x300?text=Hotel+Management+Dashboard)  
 
 ### 🎓 Education
 **BSc (Hons) in Information Technology**  
