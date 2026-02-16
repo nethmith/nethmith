@@ -70,7 +70,7 @@ Jul 2024 – Nov 2024
 **BSc (Hons) in Information Technology**  
 Specializing in Software Engineering  
 SLIIT – Sri Lanka Institute of Information Technology  
-2023 – 2026 (expected)
+2023 – 2027 (expected)
 
 ### 📜 Certifications
 - MongoDB Data Modeling Path  
