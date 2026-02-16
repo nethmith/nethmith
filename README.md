@@ -81,9 +81,15 @@ SLIIT – Sri Lanka Institute of Information Technology
 
 ### 📊 GitHub Stats
 <div align="center">
-  [![Nethmi Herath's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethmith&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nethmith&show_icons=true&theme=tokyonight&count_private=true">
+    <img alt="Nethmi Herath's GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=nethmith&show_icons=true&theme=default&count_private=true">
+  </picture>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nethmith&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nethmith&layout=compact&theme=tokyonight">
+    <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nethmith&layout=compact&theme=default">
+  </picture>
 </div>
 
 ---
