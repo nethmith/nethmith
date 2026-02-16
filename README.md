@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://picsum.photos/id/1015/1200/400" alt="Modern tech banner" width="900"/>
-  <!-- Replace the link above with your own banner (Canva / Freepik) — something clean with React/Next.js + Ceylon tea vibes works great -->
+  <img src="https://img.freepik.com/free-vector/explore-future-today-with-ai_1421494-618.jpg" alt="Tech banner with vibrant gradient and futuristic elements" width="800"/>
 
   <h1>Hi, I'm Nethmi Herath 👋</h1>
   <h3>Trainee Software Engineer | React & Next.js Enthusiast | Full-Stack Builder</h3>
